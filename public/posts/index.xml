@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Octopus Labs official blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Octopus Labs official blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 11:39:49 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Octo</title>
+      <link>http://localhost:1313/posts/introducing-octo/</link>
+      <pubDate>Sat, 25 Jan 2025 11:39:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/introducing-octo/</guid>
+      
+      <description>&lt;p&gt;In the rapidly evolving landscape of artificial intelligence, Octopus Labs emerges as a pioneering force, set to redefine the capabilities of AI agents through its innovative toolbox. Our mission is to transform the internet into a living, breathing ecosystem where intelligent agents can seamlessly interact with data across multiple dimensions - on-chain, on-site, and in real life.&lt;/p&gt;
+&lt;h2 id=&#34;the-vision-of-octopus-labs&#34;&gt;The Vision of Octopus Labs&lt;/h2&gt;
+&lt;p&gt;At Octopus Labs, we envision a meta world where the boundaries between digital and physical realms blur, creating a unified dataset that encompasses the entire world and metaworld. This ambitious goal drives our development of cutting-edge tools that empower AI agents with unprecedented abilities to perceive, understand, and interact with their environment.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
