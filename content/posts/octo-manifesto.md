@@ -1,7 +1,7 @@
 +++
 date = '2025-01-25T11:39:49Z'
 draft = false
-title = 'Introducing Octo'
+title = 'Octo manifesto'
 +++
 
 In the rapidly evolving landscape of artificial intelligence, Octopus Labs emerges as a pioneering force, set to redefine the capabilities of AI agents through its innovative toolbox. Our mission is to transform the internet into a living, breathing ecosystem where intelligent agents can seamlessly interact with data across multiple dimensions - on-chain, on-site, and in real life.
